@@ -2,9 +2,9 @@
 # Makefile Options
 # ----------------------------
 
-NAME = DEMO
+NAME = TALKTOPC
 ICON = icon.png
-DESCRIPTION = "CE C Toolchain Demo"
+DESCRIPTION = "Serial Relay"
 COMPRESSED = NO
 ARCHIVED = NO
 
